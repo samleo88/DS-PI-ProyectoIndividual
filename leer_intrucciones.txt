@@ -1,0 +1,16 @@
+-- se apliclico la normalizacion del archivo localidades para realizar las tablas 
+	*provincia
+	*departamento
+	*municipio
+	*localida
+	*localidades_finales
+-- se aplico el la normalizacion con valores ingresados con pandas, en las tablas de clientes, ventas, sucursales, etc
+	* no me funciono la libreria fuzzywuzzy, por eso lo hice manual con ayuda de excell
+- se crea relaciones con diagrama de mysql,
+-se adjunta el archivo de prueba el cual sirvio para hacer las pruebas de programnacion
+-el archivo ejecutable es ProyecIndividual, el cual al ejecutar crea las tabla normalizadas lo mejor posible
+- se subio la informacion al repositorio
+es poquito pero honesto
+
+Gracias
+	
